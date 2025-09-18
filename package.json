@@ -1,0 +1,1 @@
+{"name":"kidsbook-mvp-fixed","version":"0.1.1","private":true,"description":"Fixed minimal serverless MVP for AI-generated children's books on Vercel.","license":"MIT","dependencies":{"openai":"^4.58.1"}}
